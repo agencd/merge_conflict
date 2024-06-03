@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 my unique content number 1
-=======
-merge conflict
->>>>>>> main
