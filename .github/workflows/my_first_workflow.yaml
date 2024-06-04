@@ -10,7 +10,6 @@ on:
   pull_request:
     branches: [ "main" ]
   workflow_dispatch:
-  schedule:
 jobs:
   my_first_jon:
     runs-on: ubuntu-latest
